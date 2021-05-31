@@ -1,2 +1,2 @@
-# quarkus-sample-crud
+# quarkus-simple-crud
 Just CRUD exemple in quarkus
