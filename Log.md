@@ -1,7 +1,7 @@
 === 2021-05-31 - Création du projet
-Documents de référence
-https://www.youtube.com/watch?v=rFoKfL5FhU0&list=PLcR0l1ErUwydppYwIkUatOaWj3AEJy6D0&index=5
-https://quarkus.io/guides/rest-data-panache
+Documents de référence \
+https://www.youtube.com/watch?v=rFoKfL5FhU0&list=PLcR0l1ErUwydppYwIkUatOaWj3AEJy6D0&index=5 \
+https://quarkus.io/guides/rest-data-panache 
 
 Dans visual studio code -> Ctrl + Shift + p -> Quarkus generate project
 Extensions : 
